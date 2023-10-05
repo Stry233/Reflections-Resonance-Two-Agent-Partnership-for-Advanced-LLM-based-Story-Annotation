@@ -1,0 +1,39 @@
+**Character Descriptions:**
+
+`isCharacter('Conseil')` - Brief Description: A domestic servant of Professor Aronnax, who is detailed oriented, methodical, and eager to serve.
+
+`isCharacter('Ned')` - Brief Description: Also known as Ned Land, he is a Canadian sailor known for his proficiency in harpooning. He is headstrong and eager to return to land.
+
+`isCaptain('Nemo')` - Brief Description: The mysterious and scientific captain of the Nautilus, who has forsaken land life to live beneath the sea. He has periods of absence and is engrossed in underwater marine life. 
+
+**Story's Beginning:**
+
+`storyBegin('November 9')` - Council wakes Aronnax, who is concerned about the absence of Captain Nemo. 
+
+`storySituation('Clothes', 'seashell tissue')` - Aronnax's clothes, made of seashell tissue, provoke questions from Council.
+
+`storySetting('main lounge', 'deserted')` - The main lounge of the Nautilus is deserted, prompting Aronnax to investigate the various specimens stored in it.
+
+**Event Breakdown:**
+
+`eventOccur('Captain Nemo absence', 'November 9')` - Captain Nemo was absent throughout November 9.
+
+`eventOccur('Nautilus course change', 'November 10')` - The Nautilus course continued to be on the east-northeasterly direction.
+
+`eventChange('Invitation received', 'November 16')` - An invitation note from Captain Nemo to Aronnax was found at Aronnax's table, inviting him on a hunting trip.
+
+**Author's Techniques:**
+
+`forecastEvent('hunting invitation')` - The author utilizes forecasting by introducing the invitation from Captain Nemo for a hunting trip, creating anticipation for future events.
+
+`backflashEvent('seashell clothing explanation')` - Backflash is used to educate Conseil about the origin of the seashell tissue clothes, providing historical and scientific context.
+
+**Literary Tropes:**
+
+`isTrope('Mysterious Benefactor', 'Captain Nemo')` - Captain Nemo fits the Mysterious Benefactor trope as he provides for Aronnax, Ned, and Conseil while remaining largely absent and cryptic.
+
+`isTrope('FishOutOfWater', 'Aronnax, Ned, Conseil')` - Aronnax, Ned, and Conseil are "fish out of water", unfamiliar and out of place in their underwater environment.
+
+**Narrative Perspective:**
+
+`narratorChange('no')` - The narrative perspective remains consistent, told from the point of view of Professor Aronnax throughout the entire Chapter 15.

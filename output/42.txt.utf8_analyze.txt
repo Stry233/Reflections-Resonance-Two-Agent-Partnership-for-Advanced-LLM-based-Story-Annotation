@@ -1,0 +1,48 @@
+**Character Descriptions:**
+
+1. [exists(Captain Nemo)] - Captain Nemo is the mysterious and solitary captain of Nautilus, apparently possesses immense knowledge that he has obtained via his underwater research.
+2. [exists(Conseil)] - Conseil is a character who appears to be accepting of the situation within Nautilus but appears less in this chapter. 
+3. [exists(Ned Land)] - Ned Land is a Canadian crew member, shown as impatient and longing for his freedom. He thinks of devising plans and rebelling against Captain Nemo.
+4. [exists(Frenchman(unnamed))] - An unnamed Frenchman also exists in the crew of the Nautilus, dying in a fight with a devilfish.
+5. [exists(Professor Aronnax)] - Professor Aronnax, the narrator of the story, is shown as patient and understanding even though he too wishes for freedom. He tries to negotiate with Captain Nemo.
+
+**Story's Beginning:**
+
+1. [describes_initial_state(Aronnax, Nautilus Crew, distressed(new-loss))].
+2. [describes_initial_state(Nautilus, drifting on the sea)].
+3. [describes_initial_belief(one of the crew members was a Frenchman, just like Aronnax)].
+
+**Event Breakdown:**
+
+1. [event(death of a crew member, fight with devilfish)].
+2. [event(Captain Nemo retreats, in his stateroom after loss)].
+3. [event(Nautilus drifts, grief-stricken)].
+4. [event(Journey resume, May 1, Nautilus resumes northbound)].
+5. [event(Storm begins, May 13)].
+6. [event(Aronnax's confrontation with Captain Nemo)].
+7. [event(Nautilus descends, seeks calm in ocean depths)].
+
+**Author's Techniques:**
+
+1. [author_technique(show, not tell)] - The author uses detailed descriptions to help readers visualize the scenario rather than explicitly stating facts.
+   
+   - Example: The in-depth description of the storm helps the reader visualize the chaos.
+
+
+2. [author_technique(suspense)] - The author keeps the reader guessing about Captain Nemo's future plans.
+   
+   - Example: The conversation between Aronnax and Nemo leaves the reader uncertain about their future.
+
+**Literary Tropes:** 
+
+1. [trope(confined_space)] - The Nautilus serves as a confined space, contributing to the growing tension between the characters.
+   
+   - Example: Ned Land feeling suffocated and wanting freedom.
+
+2. [trope(respect_to_nature)] - The author gives the sea and nature immense respect describing them not only as geographical entities but living characters.
+
+   - Example: The in-depth description of the storm reveals the powerful and unpredictable nature of the sea.
+
+**Narrative Perspective:**
+
+Seems to be consistent throughout the story and is told from the first-person perspective of Aronnax. His views on the unfolding events give the reader a personal sense of the trials and tribulations happening onboard the Nautilus.

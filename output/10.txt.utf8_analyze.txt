@@ -1,0 +1,46 @@
+**Character Descriptions:**
+
+- `CaptainNemo(standingUp, leadingAronnaxAround, hasOwnershipOverBooks, goodReader, previousCollector, livesUnderwater)`
+  
+- `ProfessorAronnax(followingCaptain, amazedByLibrary, thankfulForBooks, smoker, naturalist, impressedBySeaCreatures, curiousAboutNautilus)`
+
+**Story's Beginning:**
+
+- `nautilus(GranderThanAPalace, possessingLibrary, introducedIntoStory)`
+
+- `captainNemo(standsUp, startsLeadingProfessorAronnax)`
+
+- `professorAronnax(entersLibrary, marveledAtTheSize, speaksToCaptainNemo)`
+
+**Event Breakdown:**
+
+1. `EnterLibrary(captainNemo, professorAronnax)`
+2. `ShowBooksToAronnax(captainNemo)`
+3. `InviteToUseLibrary(captainNemo, professorAronnax)`
+4. `AcceptInvitationToUseLibrary(professorAronnax, captainNemo)`
+5. `OfferCigarToAronnax(captainNemo)`
+6. `AcceptCigar(professorAronnax, captainNemo)`
+7. `ShowArtCollectibles(captainNemo, professorAronnax)`
+8. `ShowSeaCreaturesCollection(captainNemo, professorAronnax)`
+9. `InviteToInspectNautilus(captainNemo, professorAronnax)`
+10. `ShowAronnaxHisRoom(captainNemo, professorAronnax)`
+
+**Author's Techniques:**
+
+- `Foreshadow(captainNemo, pastConnectionToLand, breakingHisTiesWithTheLand)`
+
+- `Flashback(captainNemo, referenceToPreviousLife, hisLifeOnLand)`
+
+**Literary Tropes:**
+
+- `Symbolism(Nautilus, freedomAndEscape)`
+
+- `PatheticFallacy(nautilusLibrary, calmnessAndSafety)`
+
+- `Foreshadowing(captainNemoRevelations, hisDisconnectionFromHumanity)`
+
+**Narrative Perspective:**
+
+- `ChangeInPerspective(fromAronnaxToCaptainNemo, captainNemoRevealsHisPast)`
+
+The story from this point seems to describe various events and situations on the Nautilus, with the perspective mainly from Professor Aronnax, observing and interacting with Captain Nemo. There are some instances where we get glimpses into Nemo's perspective, particularly when he reveals bits about his past life and habits. The use of predicates for this analysis allows us to clearly delineate the roles of the characters, the various events, and the way the perspective switches.

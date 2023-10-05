@@ -1,0 +1,31 @@
+**Character Descriptions:**
+
+- "Me_Pred"(Name = "Narrator", Status = Present) 
+- "Other_Pred"(Name = "Ned Land", Characteristics = ["harpooner", "temperamental", "impatient", "angered easily"])
+- "Other_Pred"(Name = "Conseil", Characteristics = ["manservant", "serene", "calm", "optimistic", "loyal"])
+- "Other_Pred"(Name = "Two Unknown Men", Characteristics = ["foreign", "unknown language", "possibly southern origin", "intimidating"])
+
+**Story's Beginning:**
+
+The narrator and his companions, Ned Land and Conseil, find themselves captive in a dark, confined space. The identity of their captors and the reason behind their capture is unknown.
+
+**Event Breakdown:**
+
+- "Event_Pred"(Event = "capture", Characters involved = ["Narrator", "Ned Land", "Conseil"])
+- "Event_Pred"(Event = "imprisoned in darkness", Characters involved = ["Narrator", "Ned Land", "Conseil"])
+- "Event_Pred"(Event = "never-ending darkness turned to bright light", Characters involved = ["Narrator", "Ned Land", "Conseil"])
+- "Event_Pred"(Event = "appearance of Two Unknown Men", Characters involved = ["Narrator", "Ned Land", "Conseil", "Two Unknown Men"])  
+
+The author uses the technique of "forecasting" to suggest the identities and backgrounds of the two unknown men based on their physical characteristics and the language they speak.
+
+The "backslash" technique is used in the transitions between moments of extreme darkness and brightness, as well the transitions in tone between calmness and frustration.
+
+**Literary Tropes:**
+
+- Tension and suspense: The unknown nature of their captors and their vague future.
+- Irony: The attempts at communication turn into a comedic scene as every language fails.
+- Motif of Darkness and Light: The shifts between periods of darkness and light reflect the shifting emotional states of the characters, from despair to hope.
+  
+**Narrative Perspective:**
+
+The narrative is told exclusively from the perspective of the narrator, which does not change throughout Chapter 8.

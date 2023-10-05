@@ -1,0 +1,38 @@
+Character Descriptions:
+
+1. protagonist(Professor Aronnax): A cerebral and observational character, curious about the strange underwater phenomenon, Professor Aronnax shows quick decision-making and leadership.
+2. Conseil: Professor Aronnax's loyal servant, characterized by his calm demeanor, problem-solving skills, and outstanding loyalty towards his master.
+3. Ned Land: A brave and robust Canadian harpooner, quick to react and adapt to unusual circumstances. His character is driven by his practicality and survival instincts.
+
+Story's Beginning:
+
+predicate(is_startled(Professor Aronnax)).
+predicate(is_dragged_undersea(Professor Aronnax)).
+predicate(is_worried_about_rescue(Professor Aronnax)).
+
+Event Breakdown:
+
+predicate(discovers_unidentified_object_in_sea(Professor Aronnax)).
+predicate(assumes_object_to_be_a_whale(Professor Aronnax, Ned Land)).
+predicate(realizes_object_to_be_submarine(Ned Land)).
+predicate(confirm_identification_of_submarine(Professor Aronnax)).
+predicate(starts_moving(object_submarine)).
+predicate(gain_speed(submarine)).
+predicate(sentence_in_submarine(Professor Aronnax, Conseil, Ned Land)).
+
+Author's Techniques:
+
+The author uses "foreshadowing" when Professor Aronnax and his crew find themselves stranded upon the metallic object, alluding to its mechanical nature before it's explicitly revealed to be a man-made submarine.
+
+The "backstory" technique is employed to establish context and add depth to the characters. For example, references to the crew's previous experiences and occupations enrich their character descriptions.
+
+Literary Tropes:
+
+1. Man vs. Nature: The narrative portrays a struggle for survival against the mighty sea.
+2. Mysterious creature: The initial depiction of the submarine as a sea creature adds to the suspense.
+3. Loyal Servant: Conseil's loyalty towards Professor Aronnax is a classic instance of this trope.
+4. Dramatic Irony: The audience is aware of the submarine's mechanical nature before the characters, creating suspense.
+   
+Narrative Perspective:
+
+The story is told from the perspective of Professor Aronnax, thereby providing subjective viewpoints, internal thoughts, and personal interpretations. His perspective offers insightful commentary on the events, enhancing the narrative's emotional depth and complexity.

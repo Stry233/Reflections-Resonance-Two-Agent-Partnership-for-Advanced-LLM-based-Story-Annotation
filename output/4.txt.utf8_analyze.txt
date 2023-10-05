@@ -1,0 +1,44 @@
+
+    Character Descriptions:
+
+    - Ned_Land: Ned Land is a Canadian harpooner aboard the Abraham Lincoln who is skilled and confident. He also seems stubborn and skeptical.
+    - Commander_Farragut: The leader of the Abraham Lincoln voyage and authorizes Ned Land to pursue whales on the Monroe. He decides course for the ship and promises to return the ship to Europe if the monster is not found after three more days.
+    - Professor_Aronnax: He is an observer onboard the ship, stays on deck day and night in hopes to see the narwhale, and seems to have a good relationship with Conseil.
+    - Conseil: He is always calm and is interestingly more interested in sleeping or reading in his cabin than spotting whales.
+
+    Story's Beginning:
+
+    - Voyage_initiated(Abraham_Lincoln).
+    - Harpooner_on_ship(Ned_Land, Abraham_Lincoln).
+    - Met_fleet_of_whalers(Abraham_Lincoln, American_whalers).
+    - Whalers_not_have_sighted_monster(American_whalers).
+    - Whaling_success(Ned_Land, Monroe, 2).
+    - Sailing_route_decided(Commander_Farragut, South_America).
+    - Beginning_of_July(Abraham_Lincoln, Traversed_Strait_of_Magellan).
+    - Mid_July(Abraham_Lincoln, Entered_Pacific).
+
+    Event Breakdown:
+
+    - Event_1: Encounter with American fleet of whalers.
+    - Event_2: Ned Land helps on the Monroe and successfully harpoons two whales.
+    - Event_3: Abraham Lincoln enters the Strait of Magellan.
+    - Event_4: Abraham Lincoln enters the Pacific
+    - Event_5: On July 20, the Tropic of Capricorn is cut at longitude 105 degrees.
+    - Event_6: On July 27, the frigate cleared the equator.
+    - Event_7: The frigate is observed with renewed care for three days after Commander Farragut request.
+    - Event_8: Near to Japan, Ned Land sights the monster.
+
+    Author's Techniques:
+
+    - A forecast is seen in the final promise of Commander Farragut, as he guarantees the crew they will return home if the monster isn't sighted in three days. This builds suspense for the subsequent events.
+    - The backslash isn't typically used as a literary term. If instead you meant 'flashback,' the story does not present clear instances of it.
+
+    Literary Tropes:
+
+    - Foreshadowing: In the constant mentions of the monster's elusiveness, we can gather that its sighting will be significant.
+    - Man vs Nature: The sea voyage and hunt for the narwhale are forms of this trope.
+    - '"Chekhov's Gun": Ned Land's prowess as a harpooner introduced early on may play a significant role later in the narrative.
+
+    Narrative Perspective:
+
+    - The story is told from a first-person perspective, presumably Professor Aronnax, who has access to the thoughts and feelings of the characters. This perspective remains consistent throughout Chapter 5.

@@ -1,0 +1,35 @@
+Character Descriptions:
+
+- The protagonist: A scholar who oversleeps after a night of observations and adventures on the Nautilus.
+- Captain Nemo: The enigmatic captain of the Nautilus. He reveals the secret coal mine inside an extinct volcano and seems to live, work, and travel at his discretion.
+- Conseil: The protagonist's servant, who is described as distractedly interested in fish during the journey.
+- Ned Land: A crew member on the Nautilus who is eager to explore and hunt, even for bees in a hive they find.
+
+Story's Beginning:
+
+- Nautilus's_previously_heading(southward).
+- Nautilus's_speed(20_miles/hour).
+- Nautilus's_depth(100_meters).
+
+Event Breakdown:
+
+- Event_1: The protagonist explores the underwater features alongside Conseil.
+- Event_2: Ned Land collecting honey from a hive in a volcano.
+- Event_3: The discovery of the underwater home port of the Nautilus, inside an extinct volcano.
+- Event_4: Exploration inside the volcano and discovery of bird nests and fauna.
+- Event_5: Narrow escape from the rising tide inside the cave in the volcano.
+- Event_6: Resupplying and departure of the Nautilus.
+
+Author's Techniques:
+
+The usage of "forecast" and "backslash" in the narrative is not clear from the provided text.
+
+Literary Tropes:
+
+- Atlantis: The lost underwater city, explored by the characters.
+- Secret Port: The Nautilus and its captain have a secret, virtually inaccessible home port inside an extinct volcano.
+- Man vs. Nature: The characters explore, and try to survive in, an underwater sea within a volcano.
+  
+Narrative Perspective:
+
+The perspective remains consistent throughout, being a first-person narrative as told by the protagonist (a scholar). It veers between his personal experiences and perceptions, to relayed events that he was informed of or that involved other characters.

@@ -1,0 +1,35 @@
+Character Descriptions:
+
+1. The Narrator (scholar and explorer) - Observed(P1, runs the story, observes, deep knowledge of marine life)
+2. Captain Nemo (Commander of the Nautilus Submarine) - NotObserved(P1, insideRef(nautilus), duringRef('Mediterranean crossing'))
+3. Ned Land (passenger on the Nautilus and constantly planning escape) - Upset(P1, isn't allowed, to escape) 
+4. Conseil (narrator's servant and fellow explorer) - ObservedAndRecorded(P1, details, marine life)
+   
+Story's Beginning:
+
+At the start of chapter 7, the Nautilus had just entered the Mediterranean Sea after crossing from Greece on February 16 and they cleared the Strait of Gibraltar by sunrise on the 18th, approximately 48 hours. The characters are introduced and set about their tasks - exploring and cataloging marine life.
+
+Event Breakdown:
+
+1. EntryInto(P1, 'The Mediterranean', 'Morning of February 16')
+2. Observed(P1, 'the basin', 'quickly')
+3. Departed(P1, 'the waterways of Greece', 'February 16')
+4. Cleared(P1, 'the Strait of Gibraltar', 'sunrise on 18th')
+5. ObservedAndRecorded(P1 & Conseil, marine life, 'very fast')
+6. Entered(P1, 'second Mediterranean basin', 'Night of February 16-17')
+7. Observed(P1, shipwrecks, 'as it got closer to the Strait of Gibraltar')
+8. Arrived(P1, 'the entrance to the Strait of Gibraltar', 'around 3 am on February 18')
+   
+Author's Techniques:
+
+The author utilizes "forecast" by foreshadowing the bustling life beneath the Mediterranean sea and the various historical and mythical references that color the Mediterranean's narrative. "Backslash" or flashbacks are used to recount the historical significance and tragedies of the Mediterranean, from the ancient ruins to the uncountable shipwrecks. 
+
+Literary Tropes:
+
+1. Foreshadowing - The author hints at the historical significance and dangers of the Mediterranean through references to ancient myths, past shipwrecks, and dangerous seafarers.
+2. Hyperbole - The author uses over-exaggeration for dramatic effect, such as describing the sea as a 'genuine battlefield' and comparing the shipwrecks to a 'field of catastrophes'.
+3. Metaphor - The author refers to the Mediterranean as a 'lake' compared to the 'vast liquid plains of the Pacific', and the earth becoming a 'cold corpse'.
+   
+Narrative Perspective:
+
+The narrative keeps a consistent first-person perspective centered around the narrator, providing his thoughts, observations, and knowledge throughout the passage. However, he also includes observations and knowledge contributed by other key characters like Conseil.

@@ -1,0 +1,39 @@
+Character Descriptions:
+
+- Predicate1: Protagonist(Professor_Aronnax)
+- Predicate2: Companions(Professor_Aronnax, Ned_Land, Conseil)
+- Predicate3: CommanderOfNautilus(Captain_Nemo)
+- Predicate4: Met_With(Captain_Nemo, Professor_Aronnax)
+- Predicate5: SavagesEncountered(Professor_Aronnax, Ned_Land, Conseil)
+
+Story Begining:
+
+- Predicate1: OnTheNautilus(Professor_Aronnax, Ned_Land, Conseil)
+- Predicate2: StuckOnCoral(Nautilus)
+- Predicate3: AttackersAppeared(Savages)
+- Predicate4: BelieveIn(Captain_Nemo's_confidence, Professor_Aronnax)
+
+Event Breakdown:
+
+- Predicate1: AttackedWithStones(Savages, Professor_Aronnax)
+- Predicate2: AssumptionMade(Professor_Aronnax, Savages_boarding_Nautilus)
+- Predicate3: ConversationHeld(Captain_Nemo, Professor_Aronnax)
+- Predicate4: Savages_Repelled(Captain_Nemo)
+- Predicate5: Nautilus_Departed(Captain_Nemo)
+
+Author's Techniques:
+
+- Predicate1: UseOfForeshadowing(Captain_Nemo's_confidence, Professor_Aronnax)
+- Predicate2: UseOfSuspense(Approach_of_Savages)
+
+Literary Tropes:
+
+- Predicate1: ExistenceOf(Irony, Captain_Nemo's_attitude_towards_Savages)
+- Predicate2: UseOf(Symbolism, Nautilus_representation_of_isolation_and_power)
+- Predicate3: ApplicationOf(Foreshadowing, Captain_Nemo's_dispelling_fears_about_savages)
+  
+Narrative Perspective:
+
+- Predicate1: FirstPersonNarration(Professor_Aronnax)
+- Predicate2: ObserverNarrator(Professor_Aronnax)
+- Predicate3: NonChangeInNarrativePerspective(Whole_Story).

@@ -1,0 +1,39 @@
+
+    Character Descriptions:
+
+    character(Narrator).  
+    character(Ned Land). 
+    character(Conseil). 
+    character(Captian Nemo). 
+    relationship(Narrator, Ned Land, companions). 
+    relationship(Narrator, Conseil, companions). 
+    relationship(Narrator, Captain Nemo, encountered).
+
+    Story's Beginning:
+
+    initial_state(Narrator, unconscious). 
+    initial_state(Ned Land, Conseil, safe). 
+    initial_belief(Narrator, in fisherman's hut).
+
+    Event Breakdown:
+
+    event1(Narrator, Ned Land, Conseil, escape from Maelstrom). 
+    event2(Narrator, regain consciousness). 
+    event3(Narrator, review of adventures). 
+    event4(Narrator, speculation about Nautilus and Captain Nemo).
+
+    Author's Techniques:
+
+    use_of_forecast(Narrator, speculates about future of Captain Nemo and Nautilus).
+    use_of_backslash(Narrator, recall past incidents and errors).
+
+    Literary Tropes:
+
+    literary_trope(man_vs_nature, Evidence: The Maelstrom and sea voyages) 
+    literary_trope(unknown_fate, Evidence: The unknown fate of Captain Nemo and Nautilus)
+    literary_trope(revenge_story, Evidence: Captain Nemo's pursuit of revenge)
+
+    Narrative Perspective:
+
+    perspective1(Narrator, first_person, entire_story).
+    perspective_shift(Narrator, none, no_shift_in_perspective).
